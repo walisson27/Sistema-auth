@@ -7,8 +7,12 @@
 ## :rocket: Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
-
-
+-React
+-NextJS
+-NextAuth
+-React Mui
+-Tailwind
+-MongoDB
 <br>
 
 ## 💻 Instalação
